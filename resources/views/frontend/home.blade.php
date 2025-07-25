@@ -516,7 +516,7 @@
                     </ul>
 
                     <a href="http://localhost/laravel-elearning-main/public/course" class="btn btn-primary">
-                        <span class="span">View All Courses</span>
+                        <span class="span">Lihat Semua Kursus</span>
 
                         <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
                     </a>
