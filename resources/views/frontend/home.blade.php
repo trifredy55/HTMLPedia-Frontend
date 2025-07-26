@@ -26,7 +26,7 @@
                                 </a>
 
                     </div>
-                    
+
 
                     <figure class="hero-banner">
 
@@ -248,7 +248,7 @@
 
                             <li class="about-item">
 
-                              
+
 
                                 <div>
                                     <h3 class="h3 item-title">HTMLPedia</h3>
@@ -336,7 +336,7 @@
                                             <ion-icon name="star"></ion-icon>
                                         </div>
 
-                                      
+
 
                                     </div>
 
@@ -351,7 +351,7 @@
                                         <div class="card-meta-item">
                                             <ion-icon name="people-outline" aria-hidden="true"></ion-icon>
 
-                                           
+
                                         </div>
 
                                     </div>
@@ -412,7 +412,7 @@
                                             <ion-icon name="star"></ion-icon>
                                         </div>
 
-                              
+
 
                                     </div>
 
@@ -493,7 +493,7 @@
                                         <div class="card-price">
                                             <span class="span">Free</span>
 
-                                     
+
                                         </div>
 
                                         <div class="card-meta-item">
@@ -508,10 +508,10 @@
                             </div>
                         </li>
 
-                 
 
-                        
-                        
+
+
+
 
                     </ul>
 
@@ -528,7 +528,7 @@
 
 
             <!-- #EVENT-->
-  
+
 
         </article>
     </main>

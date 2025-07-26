@@ -4,18 +4,18 @@
 
 @section('content')
     <!-- #ABOUT-->
-    <section class="section about" id="about" aria-label="about" style="margin-top: 20%;">
+    <section class="section about" id="about" aria-label="about" style="margin-top: 10%;">
         <div class="container">
 
             <figure class="about-banner">
 
-                <img src="{{ asset('frontend/assets/images/about-banner.jpg') }}" width="450" height="590" loading="lazy"
+                <img src="{{ asset('frontend/assets/images/about-banner.jpg') }}" width="350" height="490" loading="lazy"
                     alt="about banner" class="w-100 about-img">
 
-                <img src="{{ asset('frontend/assets/images/about-abs-1.jpg') }}" width="188" height="242"
+                <img src="{{ asset('frontend/assets/images/about-abs-1.jpg') }}" width="328" height="352"
                     loading="lazy" aria-hidden="true" class="abs-img abs-img-1">
 
-                <img src="{{ asset('frontend/assets/images/about-abs-2.jpg') }}" width="150" height="200"
+                <img src="{{ asset('frontend/assets/images/about-abs-2.jpg') }}" width="190" height="170"
                     loading="lazy" aria-hidden="true" class="abs-img abs-img-2">
 
             </figure>
@@ -76,15 +76,14 @@
 
                                     <p class="item-text">
                                         Tempat dan waktu bukan lagi halangan untuk yang ingin berkembang.
-                                        HTMLPedia ada untuk anda bisa berkembang kapanpun dan dimana pun 
+                                        HTMLPedia ada untuk anda bisa berkembang kapanpun dan dimana pun
                                 </div>
 
                             </li>
 
                         </ul>
 
-                        <a href="http://localhost/laravel-elearning-main/public" class="btn btn-primary">
-                            <span class="span">Kembali Ke Beranda</span>
+                        <a href="http://localhost/laravel-elearning-main/public" class="btn btn-primary mt-2" style="margin-top: 20px;">Kembali Ke Beranda</a>
 
                             <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
                         </a>

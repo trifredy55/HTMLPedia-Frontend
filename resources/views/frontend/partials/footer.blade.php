@@ -1,198 +1,48 @@
-<div class="container">
+<div class="container text-center">
 
-    <div class="footer-top">
+  <div class="footer-top" style="display: flex; flex-direction: column; align-items: center; gap: 2rem;">
 
-        <div class="footer-brand">
+    <div class="footer-brand" style="max-width: 600px;">
+      <a href="#" class="footer-list-title" style="font-weight: bold;">HTMLPedia</a>
 
-            <a href="#" class="logo">HTMLPedia</a>
+      <p class="footer-link" style="display: inline;">
+        HTMLPedia adalah platform edukasi digital yang berkomitmen untuk menyediakan pembelajaran terbaik bagi semua kalangan.
+        Dengan materi yang mudah dipahami dan dipandu oleh para ahli industri, kami hadir untuk mendukung perkembangan karier Anda.
+      </p>
 
-            <p class="section-text">
-                        HTMLPedia adalah platform edukasi digital yang berkomitmen untuk menyediakan pembelajaran terbaik bagi semua kalangan. Dengan materi yang mudah di pahami dan dipandu oleh para ahli industri,
-                                 kami hadir untuk mendukung perkembangan karir terbaik dalam pengembangan web.
-            </p>
-
-            <ul class="social-list">
-
-                <li>
-                    <a href="#" class="social-link">
-                        <ion-icon name="logo-facebook"></ion-icon>
-                    </a>
-                </li>
-
-                <li>
-                    <a href="#" class="social-link">
-                        <ion-icon name="logo-twitter"></ion-icon>
-                    </a>
-                </li>
-
-                <li>
-                    <a href="#" class="social-link">
-                        <ion-icon name="logo-linkedin"></ion-icon>
-                    </a>
-                </li>
-
-                <li>
-                    <a href="#" class="social-link">
-                        <ion-icon name="logo-pinterest"></ion-icon>
-                    </a>
-                </li>
-
-            </ul>
-
-        </div>
-
-        <ul class="footer-list">
-
-            <li>
-                <p class="footer-list-title">Explore</p>
-            </li>
-
-            <li>
-                <a href="#" class="footer-link">
-                    <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
-
-                    <span class="span">About Us</span>
-                </a>
-            </li>
-
-            <li>
-                <a href="#" class="footer-link">
-                    <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
-
-                    <span class="span">Upcoming Events</span>
-                </a>
-            </li>
-
-            <li>
-                <a href="#" class="footer-link">
-                    <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
-
-                    <span class="span">Blog & News</span>
-                </a>
-            </li>
-
-            <li>
-                <a href="#" class="footer-link">
-                    <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
-
-                    <span class="span">FAQ Question</span>
-                </a>
-            </li>
-
-            <li>
-                <a href="#" class="footer-link">
-                    <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
-
-                    <span class="span">Testimonial</span>
-                </a>
-            </li>
-
-            <li>
-                <a href="#" class="footer-link">
-                    <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
-
-                    <span class="span">Privacy Policy</span>
-                </a>
-            </li>
-
-        </ul>
-
-        <ul class="footer-list">
-
-            <li>
-                <p class="footer-list-title">Useful Links</p>
-            </li>
-
-            <li>
-                <a href="#" class="footer-link">
-                    <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
-
-                    <span class="span">Contact Us</span>
-                </a>
-            </li>
-
-            <li>
-                <a href="#" class="footer-link">
-                    <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
-
-                    <span class="span">Pricing Plan</span>
-                </a>
-            </li>
-
-            <li>
-                <a href="#" class="footer-link">
-                    <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
-
-                    <span class="span">Instructor Profile</span>
-                </a>
-            </li>
-
-            <li>
-                <a href="#" class="footer-link">
-                    <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
-
-                    <span class="span">FAQ</span>
-                </a>
-            </li>
-
-            <li>
-                <a href="#" class="footer-link">
-                    <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
-
-                    <span class="span">Popular Courses</span>
-                </a>
-            </li>
-
-            <li>
-                <a href="#" class="footer-link">
-                    <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
-
-                    <span class="span">Terms & Conditions</span>
-                </a>
-            </li>
-
-        </ul>
-
-        <ul class="footer-list">
-
-            <li>
-                <p class="footer-list-title">Contact Info</p>
-            </li>
-
-            <li class="footer-item">
-                <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
-
-                <address class="footer-link">
-                    275 Quadra Street Victoria Road, New York
-                </address>
-            </li>
-
-            <li class="footer-item">
-                <ion-icon name="call" aria-hidden="true"></ion-icon>
-
-                <a href="tel:+13647657839" class="footer-link">+ 1 (364) 765-7839</a>
-            </li>
-
-            <li class="footer-item">
-                <ion-icon name="call" aria-hidden="true"></ion-icon>
-
-                <a href="tel:+13647657840" class="footer-link">+ 1 (364) 765-7840</a>
-            </li>
-
-            <li class="footer-item">
-                <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
-
-                <a href="mailto:contact@eduhome.com" class="footer-link">contact@eduhome.com</a>
-            </li>
-
-        </ul>
-
+      <ul class="social-list" style="display: flex; justify-content: center; gap: 1rem; margin-top: 1rem; list-style: none; padding: 0;">
+        <li><a href="#" class="social-link"><ion-icon name="logo-facebook"></ion-icon></a></li>
+        <li><a href="#" class="social-link"><ion-icon name="logo-twitter"></ion-icon></a></li>
+        <li><a href="#" class="social-link"><ion-icon name="logo-linkedin"></ion-icon></a></li>
+        <li><a href="#" class="social-link"><ion-icon name="logo-pinterest"></ion-icon></a></li>
+      </ul>
     </div>
 
-    <div class="footer-bottom">
-        <p class="copyright">
-            Copyright 2025 HTMLPedia. All Rights Reserved 
-        </p>
-    </div>
+    <ul class="footer-list" style="list-style: none; padding: 0; margin-top: 1rem;">
+      <li><p class="footer-list-title" style="font-weight: bold;">Contact Info</p></li>
+
+      <li class="footer-item" style="margin-top: 0.5rem;">
+        <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+        <address class="footer-link" style="display: inline;">Universitas Siber Asia, Jakarta</address>
+      </li>
+
+      <li class="footer-item" style="margin-top: 0.5rem;">
+        <ion-icon name="call" aria-hidden="true"></ion-icon>
+        <a href="tel:+02127806189" class="footer-link">(021) 27806189</a>
+      </li>
+
+      <li class="footer-item" style="margin-top: 0.5rem;">
+        <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+        <a href="mailto:htmlpedia@unsia.ac.id" class="footer-link">htmlpedia@unsia.ac.id</a>
+      </li>
+    </ul>
+
+  </div>
+
+  <div class="footer-bottom" style="margin-top: 2rem;">
+    <p class="copyright" style="color: #999;">
+      Copyright 2025 HTMLPedia. All Rights Reserved by HTMLPedia Group.
+    </p>
+  </div>
 
 </div>
